@@ -1,2 +1,2 @@
 # ERD_basicos
-ejercicios basicos de erd de codingdojo hechos en MySQWL workbench
+ejercicios ERD basicos de codingdojo hechos en MySQL workbench
